@@ -1,4 +1,5 @@
 # created by virtualenv automatically
 
 test_testanto.py
+.pytest_cache
 
